@@ -62,7 +62,7 @@ catch (Exception ex) {
 
     JOptionPane.showMessageDialog(
             frame,
-            "Please enter a valid amount!"
+            "Invalid input! Please enter numbers only."
     );
 
     return;
