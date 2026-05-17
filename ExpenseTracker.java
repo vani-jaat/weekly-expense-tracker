@@ -5,7 +5,7 @@ public class ExpenseTracker {
 
     public static void main(String[] args) {
 
-        JFrame frame = new JFrame("Weekly Expense Tracker");
+        JFrame frame = new JFrame("My Weekly Expense Tracker");
         frame.setSize(500, 500);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
