@@ -30,7 +30,7 @@ public class ExpenseTracker {
         JLabel descriptionLabel = new JLabel("Description:");
         JTextField descriptionField = new JTextField();
 
-        // Buttons
+        // Buttons Section
         JButton addButton = new JButton("Add Expense");
         JButton totalButton = new JButton("Get Weekly Total");
         JButton categoryButton = new JButton("View By Category");
